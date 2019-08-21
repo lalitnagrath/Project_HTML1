@@ -3,4 +3,4 @@ Practising code in HTML
 
 just did a HTML and CSS page.
 
-tried to made it reposive too
+tried to made it responsive too
